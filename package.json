@@ -10,8 +10,5 @@
     "Asana"
   ],
   "author": "koudenpa",
-  "license": "MIT",
-  "dependencies": {
-    "googleapis": "^39.2.0"
-  }
+  "license": "MIT"
 }
